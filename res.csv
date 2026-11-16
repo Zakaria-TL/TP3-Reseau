@@ -1,0 +1,2 @@
+nNodes;interval;txPower;run;tx;rx;pdr;throughput;delay_ms;phyRxDrop;macTxDrop
+10;1;0;1;950;950;100;880;4.94323;74;5
